@@ -1,20 +1,7 @@
-<h1 align="center">Hi 👋, I'm Quentin Champenois</h1>
-<h3 align="center">A passionate backend developer from Paris</h3>
-
-<p align="left">
-Always looking for learning new things. I am currently working with Ruby and Rails and I am also learning Go. 
-
-I like to discover new programming language, take a look on new concepts. 
-I like to work on scripting, creating CLIs / TUI, automation, testing.
-I like to think about performance and security.
-</p>
-
-<p align="left">
-I am happy to contribute on open source projects, mainly with Ruby & Go.
-
-I am also happy to help people to learn programming, writing simple tutorials
-</p>
-
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I am a backend developer from Paris</h3>
+<p align="center">Dog lover</p>
+<p align="center">Always discovering things: DevOPS, Security, Networks</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentinchampenois&show_icons=true&locale=en&layout=compact" alt="quentinchampenois" /></p>
 
